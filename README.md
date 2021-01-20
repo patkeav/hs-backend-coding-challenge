@@ -15,8 +15,8 @@ Create 4 endpoints that will update a shopping cart:
 - [ ] **REQUIREMENT 2:** Build an endpoint that will change the quantity of item(s) in the cart.
 - [ ] **REQUIREMENT 3:** Build an endpoint that will remove item(s) from the cart. (Note: As changes are made to the cart, totals should be updated.)
 - [ ] **REQUIREMENT 3:** Build a view cart endpoint that renders a json object and displays the following:
-    - [ ] All cart line items, including price and quantity for each 
-    - [ ] The grand total for all line items
+    - All cart line items, including price and quantity for each 
+    - The grand total for all line items
     
 #### Example Cart Response
 ```
@@ -49,7 +49,7 @@ We are looking for strong API methodologies. Consider edge cases and writing tes
 It’s okay to cut corners and “hardcode” things, just be prepared to answer questions about this in a follow up discussion .
 
 ### BONUS
-**BONUS**: Dockerize your application.
+Dockerize your application.
 ---
 
 ### Estimated Time: 3 hours
