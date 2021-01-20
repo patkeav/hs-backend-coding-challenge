@@ -49,8 +49,7 @@ We are looking for strong API methodologies. Consider edge cases and writing tes
 It’s okay to cut corners and “hardcode” things, just be prepared to answer questions about this in a follow up discussion .
 
 ### BONUS
-Dockerize your application.
----
+Dockerize your application
 
 ### Estimated Time: 3 hours
 
